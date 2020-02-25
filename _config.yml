@@ -1,11 +1,11 @@
 # Site settings
 author: Luke Sherwood
-title: 
+title: From Geology to Software Development
 header-img: img/home-bg.png
 email: luke.sherwood55@gmail.com
 copyright_name: Luke Sherwood
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog chronicling my journey towards becoming a coder
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lukesherwood
