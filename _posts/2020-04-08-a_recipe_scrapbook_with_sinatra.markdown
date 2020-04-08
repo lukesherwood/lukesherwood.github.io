@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A Recipe Scrapbook with Sinatra"
-date:       2020-04-08 06:35:50 +0000
+date:       2020-04-08 02:35:51 -0400
 permalink:  a_recipe_scrapbook_with_sinatra
 ---
 
@@ -13,7 +13,7 @@ We're locked down in the middle of a pandemic and it's a crazy time but I'm supe
 Then the part that I really enjoyed was getting deep down rabbit holes by following "hey, I wonder if I can add this feature?". 
 
 ### IDEA -->> RESEARCH -->> IMPLEMENT -->> FIX BROKEN APP 
-###   I_____________________<<______________________ I
+###   And Repeat
 
 
 ## The Important Lessons
@@ -23,7 +23,7 @@ Then the part that I really enjoyed was getting deep down rabbit holes by follow
 *  Creating simple code that works isn't always the best. It means you get attached to its simplicity and you find yourself bending over backwards trying to implement a little more functionality. When if you had of thought it out a bit more at the beginning it'd make it easier down the track. This happened in ths project where I had originally only created two classes, a User having_many Recipes. It worked well enough but was making it super hard to output ingredients of the recipe. So after talking with an instructor I added an Ingredients class and the app was the better for it.
 
 
-### If you're interested in an app that stores and shows recipes check it out on [Github]https://github.com/lukesherwood/sinatra-project-recipe-scrapbook)
+### If you're interested in an app that stores and shows recipes check it out on [Github](https://github.com/lukesherwood/sinatra-project-recipe-scrapbook)
 
 
 
