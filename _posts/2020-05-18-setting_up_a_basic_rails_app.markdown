@@ -6,13 +6,13 @@ permalink:  setting_up_a_basic_rails_app
 ---
 
 
-One of the best things about rails is how quickly and easy you can get an app up and working. However, I still find it daunting after I have a basic scaffold app by using either 'rails g scaffold' or creating the controller, models, views and routing your self.  I won't go into detail in this first part of app building as it will vary too much based on what kind of app you are creating, but rather, I will focus on installing the 3 best gems and having an app safe and functioning with some styling.
+One of the best things about rails is how quick and easy it is to get an app up and working. However, I still find it daunting after I have a basic scaffold app by using either 'rails g scaffold' or creating the controller, models, views and routing your self.  I won't go into detail in this first part of app building as it will vary too much based on what kind of app you are creating, but rather, I will focus on installing the 3 best gems and having an app safe and functioning with some styling.
 
 FYI I am using VS Code with Ubuntu for Windows
 
 'rails new recipebook'
 
-While thats running get your github repo ready.  [github](https://github.com/new) 
+While thats running get your github repo ready.  [new github repo](https://github.com/new) 
 Remember Rails creates readme and gitignore files so no need to add these again.
 
 CD into newly created app folder
@@ -21,7 +21,7 @@ Follow instructions from Github...
 
 git add .
 git commit -m "first commit"
-git remote add origin git@github.com:lukesherwood/recipebook.git
+git remote add origin .........
 git push -u origin master
 
 refresh github page and everything should be uploaded.
@@ -35,12 +35,9 @@ I hate warnings so to get rid of it just remove the following lines from gemfile
 Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-'rails s' and visit [localhost](http://localhost:3000/) should show you the ruby on rails page.
+'rails s' and visit [localhost](http://localhost:3000/) if eveything is working it should show you the ruby on rails page.
 
-close the server and generate the required scaffolds with the following...
-
-rails generate scaffold 'InsertModelName' 'InsertTableColumnName1':'ColumnNameType1'  'InsertTableColumnName2':'ColumnNameType2' etc
-rails generate scaffold book title:text author:string
+close the server and generate the required scaffolds
 
 remember to rails db:migrate
 Don't create a scaffold for the User model yet. Which brings us to our first important gem - [Devise]https://github.com/heartcombo/devise)
