@@ -6,23 +6,24 @@ permalink:  setting_up_a_basic_rails_app
 ---
 
 
-One of the best things about rails is how quick and easy it is to get an app up and working. However, I still find it daunting after I have a basic scaffold app by using either 'rails g scaffold' or creating the controller, models, views and routing your self.  I won't go into detail in this first part of app building as it will vary too much based on what kind of app you are creating, but rather, I will focus on installing the 3 best gems and having an app safe and functioning with some styling.
+One of the best things about rails is how quick and easy it is to get an app up and working. However, I still find it daunting after I have a basic scaffold app by using either 'rails g scaffold' or creating the controller, models, views and routing your self.  I won't go into detail in this first part of app building as it will vary too much based on what kind of app you are creating, but rather, I will focus on installing the 3 best gems to get your app 
 
 FYI I am using VS Code with Ubuntu for Windows
 
 'rails new recipebook'
 
 While thats running get your github repo ready.  [new github repo](https://github.com/new) 
+
 Remember Rails creates readme and gitignore files so no need to add these again.
 
 CD into newly created app folder
 
 Follow instructions from Github...
 
-git add .
-git commit -m "first commit"
-git remote add origin .........
-git push -u origin master
+> git add .
+> git commit -m "first commit"
+> git remote add origin .........
+> git push -u origin master
 
 refresh github page and everything should be uploaded.
 
