@@ -14,6 +14,6 @@ It was harder than I thought. It took a lot longer than I thought it would as we
 
 I’m proud of what I have created and I am looking forward to all the rest of the lessons I will learn as I build out the rest of the functionality of the app I called Hikable. Unfortunately, the other lesson I painfully learnt was that if you sit around on an idea too long someone will come along before you and do it first. And that is exactly what happened here with AllTrails coming to NZ and doing basically the same thing. Now that I have the expertise, though, I’ll be able to jump on my next idea a lot quicker.
 
-![Hikable homepage](https://imgur.com/a/nR0id5v)
+![Hikable homepage](https://i.imgur.com/XoF6twG.jpg)
 
 Heres a link to the video walkthrough [Hikable Youtube](https://youtu.be/1pg9a1te-74)
