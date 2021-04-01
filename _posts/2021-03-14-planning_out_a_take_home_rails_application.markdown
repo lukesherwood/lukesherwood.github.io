@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Planning out a take home Rails Application"
+title:      "Part 1 Planning out a take home Rails Application"
 date:       2021-03-14 19:57:14 -0400
 permalink:  planning_out_a_take_home_rails_application
 ---
