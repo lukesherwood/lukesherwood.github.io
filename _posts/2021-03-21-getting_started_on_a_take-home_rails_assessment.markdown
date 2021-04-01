@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Getting started on a take-home Rails assessment"
-date:       2021-03-21 13:01:14 +0000
+title:      "Part 2 Getting started on a take-home Rails assessment"
+date:       2021-03-21 09:01:15 -0400
 permalink:  getting_started_on_a_take-home_rails_assessment
 ---
 
